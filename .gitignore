@@ -1,0 +1,18 @@
+# ── 本机偏好：首次运行 setup-env --fix 会按本机情况自动生成 ──
+config.env
+
+# ── 平台市场安装元数据（含本机绝对路径，不适合提交）──
+_skillhub_meta.json
+
+# ── 运行时产物 ──
+_tid.txt
+*.log
+screen.*.json
+.cdp-endpoint.json
+
+# ── 系统 / 编辑器 ──
+.DS_Store
+Thumbs.db
+node_modules/
+__pycache__/
+*.pyc
