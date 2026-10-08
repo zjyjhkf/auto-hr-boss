@@ -8,7 +8,7 @@
 | | |
 |---|---|
 | **版本** | 2.6.0 |
-| **作者** | [shuaibiq6](https://github.com/shuaibiq6) |
+| **作者** | [健衡医疗](https://github.com/shuaibiq6) |
 | **许可** | MIT |
 | **运行环境** | Node.js ≥ 22 + Edge / Chrome，**零第三方依赖** |
 
